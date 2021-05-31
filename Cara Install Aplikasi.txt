@@ -1,0 +1,12 @@
+Cara Install Aplikasi . Install dahulu aplikasi web server, seperti XAMPP
+2. Ekstrak file yang telah download. Copykan file2 tersebut ke folder htdocs.
+3. Buat database dengan nama billing. Lewat PHPMyAdmin
+4. Impor database di folder database dengan nama "db.sql" ke database yang telah di buat pada langkah 3.
+5. Buka file config.php di folder inc.
+6. Ganti settingan databasenya sesuai di komputer anda.
+
+
+Terima Kasih
+Jika ada kendala atau request pembuatan aplikasi lainnya, bisa hubungi saya di kontak berikut :
+HP/WA/Telegram : 083863676540
+Email : rickyfirman2411@gmail.com
